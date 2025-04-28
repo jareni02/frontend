@@ -5,7 +5,7 @@ import DashboardPage from "../pages/DashboardPage.vue";
 import ManageUsers from "../pages/ManageUsers.vue";
 import EditUser from "../pages/EditUser.vue";
 import ManageMateriales from "../pages/ManageMateriales.vue";
-import InsertMaterial from "../pages/InsertMaterial.vue";
+import InsertMaterial from "../pages/insertMaterial.vue";
 import EditMaterial from "../pages/EditMaterial.vue";
 import ManagePrestamos from "../pages/ManagePrestamos.vue"; // Nueva importación
 import insertprestamo from "../pages/insertprestamo.vue";
